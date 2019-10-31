@@ -1,13 +1,13 @@
-package com.yoonkiss.flashbook;
+package com.yoonkiss.flashcards;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FlashbookApplication {
+public class FlashcardsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FlashbookApplication.class, args);
+		SpringApplication.run(FlashcardsApplication.class, args);
 	}
 
 }
